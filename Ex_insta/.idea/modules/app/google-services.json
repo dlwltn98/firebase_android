@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "432659786830",
+    "firebase_url": "https://exinsta-b2514.firebaseio.com",
+    "project_id": "exinsta-b2514",
+    "storage_bucket": "exinsta-b2514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432659786830:android:e2435ceef08ce46635a71f",
+        "android_client_info": {
+          "package_name": "com.example.ex_insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432659786830-tcu5i4jourp1u7jmera3ngb9vl3d1b9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ex_insta",
+            "certificate_hash": "8f502fc608a0f3f91b2777042cc7cde94f95cf4a"
+          }
+        },
+        {
+          "client_id": "432659786830-ns39iae3tfkeua6o8nq0l0hjn7jhqm9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXgy4wD-DM2pj6f2cRXas_ibaaJ-Q6elI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432659786830-ns39iae3tfkeua6o8nq0l0hjn7jhqm9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

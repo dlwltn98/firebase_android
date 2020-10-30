@@ -24,7 +24,13 @@
   > multiDex 추가
   
 ## 결과 화면 (Firebase)
-<img src="https://user-images.githubusercontent.com/68541650/97737829-dddbb900-1b20-11eb-99de-b6ec251ce40c.png" width="430px" height="300px" title="px(픽셀) 크기 설정" alt="firestore"></img>
-<img src="https://user-images.githubusercontent.com/68541650/97737862-ea601180-1b20-11eb-9865-74818161ec92.png" width="450px" height="200px" title="px(픽셀) 크기 설정" alt="Storage"></img><br/>
+<img src="https://user-images.githubusercontent.com/68541650/97737829-dddbb900-1b20-11eb-99de-b6ec251ce40c.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="firestore"></img>
+<img src="https://user-images.githubusercontent.com/68541650/97737862-ea601180-1b20-11eb-9865-74818161ec92.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="Storage"></img><br/>
 
 ## 결과 화면 (App)
+<img src="https://user-images.githubusercontent.com/68541650/97738565-df59b100-1b21-11eb-86c7-2890c7da41c7.png" width="20%" height="30%" title="px(픽셀) 크기 설정" alt="home"></img>
+<img src="https://user-images.githubusercontent.com/68541650/97738568-dff24780-1b21-11eb-9c73-67a77c01ed47.png" width="20%" height="30%" title="px(픽셀) 크기 설정" alt="search"></img>
+<img src="https://user-images.githubusercontent.com/68541650/97738556-de288400-1b21-11eb-9b13-d1acd2cde7f4.png" width="20%" height="30%" title="px(픽셀) 크기 설정" alt="mypage"></img><br/>
+<img src="https://user-images.githubusercontent.com/68541650/97738539-d8cb3980-1b21-11eb-8474-217ca7a505cf.png" width="20%" height="30%" title="px(픽셀) 크기 설정" alt="photoUpload"></img>
+<img src="https://user-images.githubusercontent.com/68541650/97738573-e08ade00-1b21-11eb-96b8-954243c4b3e3.png" width="20%" height="30%" title="px(픽셀) 크기 설정" alt="Comments"></img>
+<img src="https://user-images.githubusercontent.com/68541650/97738574-e08ade00-1b21-11eb-9515-95d02927fb2e.png" width="20%" height="30%" title="px(픽셀) 크기 설정" alt="favorit"></img>

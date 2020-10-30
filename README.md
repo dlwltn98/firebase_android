@@ -24,7 +24,7 @@
   > multiDex 추가
   
 ## 결과 화면 (Firebase)
-<img src="https://user-images.githubusercontent.com/68541650/97737829-dddbb900-1b20-11eb-99de-b6ec251ce40c.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="firestore"></img>
+<img src="https://user-images.githubusercontent.com/68541650/97737829-dddbb900-1b20-11eb-99de-b6ec251ce40c.png" width="430px" height="300px" title="px(픽셀) 크기 설정" alt="firestore"></img>
 <img src="https://user-images.githubusercontent.com/68541650/97737862-ea601180-1b20-11eb-9865-74818161ec92.png" width="450px" height="200px" title="px(픽셀) 크기 설정" alt="Storage"></img><br/>
 
 ## 결과 화면 (App)

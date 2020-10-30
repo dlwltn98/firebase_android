@@ -34,3 +34,5 @@
 <img src="https://user-images.githubusercontent.com/68541650/97738539-d8cb3980-1b21-11eb-8474-217ca7a505cf.png" width="20%" height="30%" title="px(픽셀) 크기 설정" alt="photoUpload"></img>
 <img src="https://user-images.githubusercontent.com/68541650/97738573-e08ade00-1b21-11eb-96b8-954243c4b3e3.png" width="20%" height="30%" title="px(픽셀) 크기 설정" alt="Comments"></img>
 <img src="https://user-images.githubusercontent.com/68541650/97738574-e08ade00-1b21-11eb-9515-95d02927fb2e.png" width="20%" height="30%" title="px(픽셀) 크기 설정" alt="favorit"></img>
+
+강의 출처 : 인프런 - [하울의 안드로이드 인스타그램 클론 만들기](https://www.inflearn.com/course/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C/dashboard)
